@@ -1,6 +1,6 @@
 # pandas-challenge
 
-Applying the Python Pandas knowledge to an example.
+Applying the Python Pandas knowledge to HeroesOfPymoli.
 
 
 #Observable Trends from the Data
